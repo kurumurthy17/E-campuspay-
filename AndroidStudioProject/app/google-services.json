@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82334536228",
+    "project_id": "paymentcollege-5a11c",
+    "storage_bucket": "paymentcollege-5a11c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82334536228:android:78489daded8f6435b87eb1",
+        "android_client_info": {
+          "package_name": "com.the.paymentcollege"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-A1QpR2X1a8COPDVIA-CirkUTe2-j9YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
